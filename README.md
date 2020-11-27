@@ -15,11 +15,11 @@
 
 Funcionalidades:
 
-- Forum: Uma comunidade apenas de mulheres para que possam compartilhar hístorias, relatos, se darem apoio, de forma anônima ou não, esse espaço é todo da mulher então quero que ela se sinta a vontade para decidir. A proposta do forum é de acolher, saberem que não estão sozinhas e que a vida continua. Somos mulheres, somos fortes. Ela poderá contar com a funcionalidade de: publicar mensagem, mensagem direta, reagir e comentar publicações. 
+   Forum: Uma comunidade apenas de mulheres para que possam compartilhar hístorias, relatos, se darem apoio, de forma anônima ou não, esse espaço é todo da mulher então quero que ela se sinta a vontade para decidir. A proposta do forum é de acolher, saberem que não estão sozinhas e que a vida continua. Somos mulheres, somos fortes. Ela poderá contar com a funcionalidade de: publicar mensagem, mensagem direta, reagir e comentar publicações. 
 
-- Botão do Pânico: O botão deve funcionar em emergências e situações de risco para a vítima, ao acionar, ele começa a gravar áudio e video mesmo bloqueado. Trazendo assim uma segurança em casos de perigo, podendo ter evidências caso a agressão/tentativa venha a acontecer. Ele salva na memória do celular os dados gravados.
+   Botão do Pânico: O botão deve funcionar em emergências e situações de risco para a vítima, ao acionar, ele começa a gravar áudio e video mesmo bloqueado. Trazendo assim uma segurança em casos de perigo, podendo ter evidências caso a agressão/tentativa venha a acontecer. Ele salva na memória do celular os dados gravados.
 
-- Mapa de DDM: Contamos hoje com as Delegacias de Defesa a Mulher e embora não sejam muitas, elas tem um atendimento especializado aos casos de violência contra a mulher de diversas formas, o aplicativo contará com um mapa indicando onde estas ficam localizadas em seu respectivo estado usando seu GPS para localização.
+   Mapa de DDM: Contamos hoje com as Delegacias de Defesa a Mulher e embora não sejam muitas, elas tem um atendimento especializado aos casos de violência contra a mulher de diversas formas, o aplicativo contará com um mapa indicando onde estas ficam localizadas em seu respectivo estado usando seu GPS para localização.
 
 Desenvolvimento: A proposta de desenvolvimento para o problema será um aplicativo feito em JavaScritp e React Native, disponiblizado em plataformas IOS e Android para download gratuito. 
 
